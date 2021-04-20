@@ -4,4 +4,9 @@ public class Demo{
 		for(int i = 0; i < 10; i++)
 			System.out.println("Welcome to Hell");
 	}
+
+	void Test()
+	{
+	
+	}
 }
