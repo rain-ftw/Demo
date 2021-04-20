@@ -1,6 +1,7 @@
 public class Demo{
 	public static void Main(String args[])
 	{
-		System.out.println("Welcome to Hell");
+		for(int i = 0; i < 10; i++)
+			System.out.println("Welcome to Hell");
 	}
 }
